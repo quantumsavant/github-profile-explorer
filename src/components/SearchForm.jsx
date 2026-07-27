@@ -3,7 +3,7 @@ import { Search } from "lucide-react";
 
 const SearchForm = () => {
   return (
-    <div className="bg-amber-200 h-40 flex flex-col flex-wrap  justify-between items-center pt-4 ">
+    <div className="bg-amber-200 h-40 flex flex-col flex-wrap  justify-between items-center pt- ">
       <h2 className="font-bold text-4xl">Github Profile Explorer</h2>
       <div className="flex gap-8 items-center relative">
         <Search size={20} className="absolute left-2 text-gray-500" />
