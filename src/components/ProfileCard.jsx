@@ -16,7 +16,7 @@ const ProfileCard = () => {
           <p className="text-xl text-blue-600">@quantumsavant</p>
           <p className="text-xl ">Frontend Developer</p>
 
-          <p>
+          <p className="">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. A
             consequatur fugiat sunt repellendus asperiores tempora. Tempore,
             quia similique? Porro soluta voluptate dolor consequuntur aut
